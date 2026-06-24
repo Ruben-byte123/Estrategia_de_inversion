@@ -14,7 +14,7 @@ El proyecto está estructurado en dos fases analíticas principales correspondie
 
 ---
 
-## 🛠️ Activos e Información del Portafolio
+##  Activos e Información del Portafolio
 
 El portafolio base analiza un capital de **$1,000,000 MXN** distribuido bajo la ponderación del **Portafolio de Mínimo Riesgo (MR)** para los siguientes 10 activos (utilizando un histórico de 2 años extraído directamente de Yahoo Finance):
 
